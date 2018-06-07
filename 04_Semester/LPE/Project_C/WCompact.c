@@ -2,8 +2,8 @@
  * WCompact.c
  *
  *  Created on: May 3, 2018
- *      Author 1: Pedro Agostinho (50203)
- *      Author 2: Pedro Almeida (50490)
+ *      Author 1: P--- A---
+ *      Author 2: Pedro Almeida
  */
 
 /*

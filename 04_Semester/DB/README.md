@@ -19,5 +19,6 @@ This course has for an objective to teach the necessary skils for conception, co
 * Going throught all the steps in DB creation listed above, deploying a DB for a fictional wine cellar.
 * Grade: --/20
 
-Project Schema:[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+*Project Schema*
 ![Image](RS_Diagram.png)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)

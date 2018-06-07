@@ -1,5 +1,7 @@
 # Computer Architecture
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
+
 ### Course Focus:
 
 **Knowledge**

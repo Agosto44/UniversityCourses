@@ -2,7 +2,7 @@
 
 Babel.js - AMD/2018
 
-Autores: Pedro Agostinho, Pedro Almeida 
+Autores: P--- A---, Pedro Almeida 
 
 Comentario sobre o trabalho:
 Efetuamos todas as partes do trabalho, tendo em conta os objetivos 

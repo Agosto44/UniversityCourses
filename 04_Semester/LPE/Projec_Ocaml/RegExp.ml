@@ -1,8 +1,8 @@
 (* RegExp module body *)
 
 (* 
-Aluno 1: Pedro Miguel Pereira Agostinho - 50203
-Aluno 2: Pedro Tiago Fernandes de Almeida - 50490
+Aluno 1: P--- A---
+Aluno 2: Pedro Almeida
 
 Comment:
 
