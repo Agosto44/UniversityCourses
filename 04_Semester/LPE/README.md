@@ -6,7 +6,7 @@
 ### Course Focus:
 This course studies the various options in the design of programming languages; compares and applies some noteworthy languages and programming paradigms; explains the techniques used in programming execution environments. Languages: *Ocaml*, *C*, *JavaScript*, *XML*, *HTML*
 
-### [Ocaml](https://github.com/ptalmeida/UniveristyProjects/blob/master/04_Semester/LPE/Projec_Ocaml/RegExp.ml) Project
+### [Ocaml](https://github.com/ptalmeida/UniveristyProjects/blob/master/04_Semester/LPE/Project_Ocaml/RegExp.ml) Project
 * File search with Regular Expressions
 * Grade: 18.80/20
 
