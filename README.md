@@ -1,6 +1,6 @@
 # Univeristy Projects
 
-*Projects* and *info* about courses I took for my Computer Science and Engineering degree at Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa.
+*Projects about* and *info* about courses I took for my Computer Science and Engineering degree at Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa.
 
 ### 1st Year
 * [IP](01_Semester/IP) - Introduction to Programming - *Java*
