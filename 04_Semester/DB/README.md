@@ -17,7 +17,7 @@ This course has for an objective to teach the necessary skils for conception, co
 
 ### Main DB Project
 * Going throught all the steps in DB creation listed above, deploying a DB for a fictional wine cellar.
-* Grade: --/20
+* Grade: 19/20
 
 *Project Schema*
 ![Image](RS_Diagram.png)
