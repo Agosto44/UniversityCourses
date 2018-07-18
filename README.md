@@ -5,7 +5,7 @@
 ### 1st Year
 * [IP](01_Semester/IP) - Introduction to Programming - *Java*
 * [OOP](02_Semester/OOP) - Object Oriented Programming - *Java*
-* [CA](02_Semester/CA) - Computer Architecture - *C*, *Assemby*
+* [CA](02_Semester/CA) - Computer Architecture - *C*, *AT&T Assemby*
 * [LS](01_Semester/LS) - Logical Systems
 * [Calculus I](01_Semester/Calculus_1) - Maths
 * [Calculus II](02_Semester/Calculus_2) - Maths
