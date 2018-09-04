@@ -1,3 +1,15 @@
 theme: jekyll-theme-cayman
 title: Pedro Almeida
 description: University Projects
+
+# About/contact
+author:
+  name:       Pedro Almeida
+  url:        http://www.ptalmeida.com
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
