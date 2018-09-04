@@ -21,3 +21,10 @@
 * [CT](04_Semester/CT) - Computational Theory.
 * [PS](04_Semester/PS) - Probability and Statistics.
 * [PH](03_Semester/PH) - Physics.
+
+### 3rd Year
+* [AI](05_Semester/ADS) - Artificial Intelligence.
+* [CGI](05_Semester/LPE) - Computer Graphics and Interfaces.
+* [CN](05_Semester/FOS) - Computer Networks.
+* [SDM](05_Semester/DB) - Software Development Methods.
+* [SS](05_Semester/CL) - Sensorial Systems.
