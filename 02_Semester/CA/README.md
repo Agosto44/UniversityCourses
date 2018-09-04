@@ -11,6 +11,14 @@
   The low level interfaces to I/O devices.
   The organization and characteristics of memory units.
 
-**Competencies and aptitudes**
+**Know How**
   *C* programming, *Assembly* programming, translating between the two.
   Designing the basic components of a CPU.
+
+### Assignmets
+* C and Assembly programming assignments
+* Grades: 20/20
+
+### CA Project
+* Create a program for file transfer using certain designated ports, in C
+* Grade: 17.5/20
