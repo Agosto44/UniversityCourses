@@ -23,8 +23,8 @@
 * [PH](03_Semester/PH) - Physics.
 
 ### 3rd Year
-* [AI](05_Semester/ADS) - Artificial Intelligence.
-* [CGI](05_Semester/LPE) - Computer Graphics and Interfaces.
-* [CN](05_Semester/FOS) - Computer Networks.
-* [SDM](05_Semester/DB) - Software Development Methods.
-* [SS](05_Semester/CL) - Sensorial Systems.
+* [AI](05_Semester/AI) - Artificial Intelligence.
+* [CGI](05_Semester/CGI) - Computer Graphics and Interfaces.
+* [CN](05_Semester/CN) - Computer Networks.
+* [SDM](05_Semester/SDM) - Software Development Methods.
+* [SS](05_Semester/SS) - Sensorial Systems.
