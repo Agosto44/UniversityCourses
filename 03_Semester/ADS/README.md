@@ -20,4 +20,4 @@
 
 ### ADS Project
 * Create a property management program using the appropriate data structures for best performance and readability, in Java
-* Grade: 19/20
+* Grade: 20/20
