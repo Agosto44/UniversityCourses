@@ -1,7 +1,7 @@
 # Languages and Programming Environments
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
 
 ### Course Focus:
 This course studies the various options in the design of programming languages; compares and applies some noteworthy languages and programming paradigms; explains the techniques used in programming execution environments. Languages: *Ocaml*, *C*, *JavaScript*, *XML*, *HTML*

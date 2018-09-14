@@ -21,4 +21,4 @@ This course has for an objective to teach the necessary skils for conception, co
 
 *Project Schema*
 ![Image](RS_Diagram.png)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)
