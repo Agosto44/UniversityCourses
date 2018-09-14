@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # Info & Projects
-=======
-# University Projects
->>>>>>> parent of 2998892... fix title
 
 *Projects for* and *info about* courses I took for my Computer Science and Engineering degree at Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa.
 Check out my [Personal Website](https://www.ptalmeida.com).
