@@ -8,7 +8,6 @@ This course has for an objective to teach the necessary skils for conception, co
 * SQL and other languages
 * Integrity of reference
 * Triggers and Assertions
-* Segurança e autorizações
 * Embedded SQL, ODBC, JDBC
 * Security and grants
 * Transactions

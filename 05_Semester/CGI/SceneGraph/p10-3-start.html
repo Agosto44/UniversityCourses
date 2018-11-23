@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<head>
+
+</head>
+
+    <script id="default-vertex" type="x-shader/x-vertex">
+        uniform mat4 mModelView;
+        uniform mat4 mProjection;
+
+        attribute vec4 vPosition;
+        attribute vec3 vNormal;
+
+        varying vec3 fNormal;
+
+        void main() {
+            gl_Position = mProjection * mModelView * vPosition;
+            fNormal = vNormal;
+        }
+    </script>
+
+    <script id="default-fragment" type="x-shader/x-fragment">
+        precision highp float;
+
+        varying vec3 fNormal;
+
+        void main() {
+                //gl_FragColor = vec4(fNormal, 1.0);
+            gl_FragColor = vec4(0.2 + 4.0 * fNormal.x / 5.0, 0.2 + 4.0 * fNormal.y / 5.0, 0.2 + 4.0 * fNormal.z / 5.0, 1.0);
+        }
+    </script>
+    
+    <script type="text/javascript" src="http://ctp.di.fct.unl.pt/~fpb/cgi/exemplos/Common/webgl-utils.js"></script>
+    <script type="text/javascript" src="http://ctp.di.fct.unl.pt/~fpb/cgi/exemplos/Common/initShaders.js"></script>
+    <script type="text/javascript" src="http://ctp.di.fct.unl.pt/~fpb/cgi/exemplos/Common/MV.js"></script>
+    <script type="text/javascript" src="http://ctp.di.fct.unl.pt/~fpb/cgi/exemplos/Common/sphere.js"></script>
+    <script type="text/javascript" src="http://ctp.di.fct.unl.pt/~fpb/cgi/exemplos/Common/cube.js"></script>
+    <script type="text/javascript" src="http://ctp.di.fct.unl.pt/~fpb/cgi/exemplos/Common/cylinder.js"></script>
+    <script type="text/javascript" src="p10-3-start.js"></script>
+<body bgcolor = "#000000" text="white" style="margin: 0px">
+    <div>
+        <canvas id="gl-canvas" width="100%" height="100%">
+            Ooops! Your browser doen't support WebGL!
+        </canvas>
+    </div>
+
+    <div align="center">
+
+            Joint 1
+            <input id="slide_joint1_X" type="range" min="-180" max="180" step="0.05" value ="0"/>   
+            <div style="display: inline-block; width: 2.5%;">
+                <span id="span_joint1_X" style="position: relative;">0</span>
+            </div>
+
+            <input id="slide_joint1_Y" type="range" min="-180" max="180" step="0.05" value ="0"/>   
+            <div style="display: inline-block; width: 2.5%;">
+                <span id="span_joint1_Y" style="position: relative;">0</span>
+            </div>
+
+            <input id="slide_joint1_Z" type="range" min="-180" max="180" step="0.05" value ="0"/> 
+            <div style="display: inline-block; width: 2.5%;">
+                <span id="span_joint1_Z" style="position: relative;">0</span>
+            </div>
+
+    </div>
+
+        <div align="center">
+
+            Joint 2
+            <input id="slide_joint2_X" type="range" min="-180" max="180" step="0.05" value ="0"/> 
+            <div style="display: inline-block; width: 2.5%;">
+                <span id="span_joint2_X" style="position: relative;">0</span>
+            </div>
+
+            <input id="slide_joint2_Y" type="range" min="-180" max="180" step="0.05" value ="0"/> 
+            <div style="display: inline-block; width: 2.5%;">
+                <span id="span_joint2_Y" style="position: relative;">0</span>
+            </div>
+
+            <input id="slide_joint2_Z" type="range" min="-180" max="180" step="0.05" value ="0"/> 
+            <div style="display: inline-block; width: 2.5%;">
+                <span id="span_joint2_Z" style="position: relative;">0</span>
+            </div>
+
+    </div>
+
+
+    </div>
+
+        <div align="center">
+
+            Hand
+            <input id="slide_hand_Y" type="range" min="-180" max="180" step="0.05" value ="0"/> 
+            <div style="display: inline-block; width: 2.5%;">
+                <span id="span_hand_Y" style="position: relative;">0</span>
+            </div>
+
+    </div>
+
+</body>
+</html>
